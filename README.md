@@ -1,4 +1,4 @@
-# Kousei (攻勢)
+# Kousei (こうせい)
 
 **Author:** nu11secur1ty  
 **Years:** 2023–2026  
@@ -9,7 +9,7 @@
 
 ## Description
 
-Kousei (攻勢) is a command-line utility that simplifies the process of crafting and executing SQL injection Proof-of-Concept (PoC) attacks using sqlmap. It combines Go and Python modules to generate exploit requests, launch SQLMap with advanced parameters, and manage auxiliary attack scripts.
+Kousei (こうせい) is a command-line utility that simplifies the process of crafting and executing SQL injection Proof-of-Concept (PoC) attacks using sqlmap. It combines Go and Python modules to generate exploit requests, launch SQLMap with advanced parameters, and manage auxiliary attack scripts.
 
 ---
 
