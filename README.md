@@ -28,7 +28,7 @@ Kousei (攻勢) is a command-line utility that simplifies the process of craftin
 - Python 3.x  
 - Go installed and configured (for Go modules)  
 - `colorama` Python package  
-- sqlmap script located at your specified path (default: `D:\CVE\sqlmap-nu11secur1ty\sqlmap.py`)
+- sqlmap script located at your specified path (default: `Your_dir\sqlmap-nu11secur1ty\sqlmap.py`)
 
 ---
 
