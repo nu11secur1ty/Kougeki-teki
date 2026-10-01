@@ -9,7 +9,7 @@
 
 ## Description
 
-Kougeki-teki is a command-line utility that simplifies the process of crafting and executing SQL injection Proof-of-Concept (PoC) attacks using sqlmap. It combines Go and Python modules to generate exploit requests, launch SQLMap with advanced parameters, and manage auxiliary attack scripts.
+Kougeki-teki (攻撃的) is a command-line utility that simplifies the process of crafting and executing SQL injection Proof-of-Concept (PoC) attacks using sqlmap. It combines Go and Python modules to generate exploit requests, launch SQLMap with advanced parameters, and manage auxiliary attack scripts.
 
 ---
 
