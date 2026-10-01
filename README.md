@@ -9,7 +9,7 @@
 
 ## Description
 
-Kousei (こうせい) is a command-line utility that simplifies the process of crafting and executing SQL injection Proof-of-Concept (PoC) attacks using sqlmap. It combines Go and Python modules to generate exploit requests, launch SQLMap with advanced parameters, and manage auxiliary attack scripts.
+Kousei (こうせい) is an aggressive framework for sqlmap that can work with any web scanner capable of generating POST, GET, or other HTTP requests. It is a command-line utility that simplifies the process of crafting and executing SQL injection Proof-of-Concept (PoC) attacks using sqlmap. It combines Go and Python modules to generate exploit requests, launch sqlmap with advanced parameters, and manage auxiliary attack scripts.
 
 ---
 
