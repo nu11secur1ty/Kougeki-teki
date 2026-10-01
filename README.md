@@ -1,4 +1,4 @@
-# Kougeki-teki
+# Kousei (攻勢)
 
 **Author:** nu11secur1ty  
 **Years:** 2023–2026  
@@ -9,7 +9,7 @@
 
 ## Description
 
-Kougeki-teki (攻撃的) is a command-line utility that simplifies the process of crafting and executing SQL injection Proof-of-Concept (PoC) attacks using sqlmap. It combines Go and Python modules to generate exploit requests, launch SQLMap with advanced parameters, and manage auxiliary attack scripts.
+Kousei (攻勢) is a command-line utility that simplifies the process of crafting and executing SQL injection Proof-of-Concept (PoC) attacks using sqlmap. It combines Go and Python modules to generate exploit requests, launch SQLMap with advanced parameters, and manage auxiliary attack scripts.
 
 ---
 
@@ -37,8 +37,8 @@ Kougeki-teki (攻撃的) is a command-line utility that simplifies the process o
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/nu11secur1ty/Kougeki-teki.git
-   cd Kougeki-teki
+   git clone https://github.com/nu11secur1ty/Kousei.git
+   cd Kousei
    ```
 
 2. **Install Python dependencies:**
@@ -49,7 +49,7 @@ Kougeki-teki (攻撃的) is a command-line utility that simplifies the process o
 
 3. Ensure Go is installed and in your system PATH.
 
-4. Verify your `sqlmap.py` path in the Python script (`kougeki_teki.py`) and adjust it if needed.
+4. Verify your `sqlmap.py` path in the Python script (`kousei.py`) and adjust it if needed.
 
 ---
 
@@ -58,13 +58,13 @@ Kougeki-teki (攻撃的) is a command-line utility that simplifies the process o
 Run the main Python program:
 
 ```bash
-python kougeki_teki.py
+python kousei.py
 ```
 
 You will see a menu:
 
 ```
-===== Kougeki-teki Menu =====
+===== Kousei Menu =====
 
 1. Generate PoC (exploit.txt)
 2. Start sqlmap with PoC
@@ -137,7 +137,7 @@ pytest -q
 
 ## Logging
 
-- Default log file: `kougeki_teki.log` (rotating).  
+- Default log file: `kousei.log` (rotating).  
 - Enable verbose mode (`--verbose`) to increase log detail and stream logs to console.
 
 ---
