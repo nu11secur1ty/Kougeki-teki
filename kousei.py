@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# G0BurpSQLmaPI — polished + CLI + metadata + logging + auto-detect params
+# Kousei — polished + CLI + metadata + logging + auto-detect params
 # Author: nu11secur1ty (polished)
 # License: GPL-3.0 (preserve your repo license)
 
